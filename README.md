@@ -1,16 +1,12 @@
-# flutter_records
+# Flutter Records and Patterns Example
 
-A new Flutter project.
+## Patterns - https://github.com/dart-lang/language/blob/main/accepted/future-releases/0546-patterns/feature-specification.md
 
-## Getting Started
+## Records - https://github.com/dart-lang/language/blob/main/accepted/future-releases/records/records-feature-specification.md
 
-This project is a starting point for a Flutter application.
+## Enhanced Switch and Case (Exhaustiveness Checking) - https://github.com/dart-lang/language/blob/main/accepted/future-releases/0546-patterns/exhaustiveness.md
 
-A few resources to get you started if this is your first Flutter project:
+## Sealed Classes - https://github.com/dart-lang/language/blob/main/accepted/future-releases/sealed-types/feature-specification.md
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Simulates json data to show how this topics above work in a simple way
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
