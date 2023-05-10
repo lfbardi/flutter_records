@@ -8,5 +8,5 @@
 
 ## Sealed Classes - https://github.com/dart-lang/language/blob/main/accepted/future-releases/sealed-types/feature-specification.md
 
-# Simulates json data to show how this topics above work in a simple way
+Simulates json data to show how this topics above work in a simple way
 
